@@ -1,0 +1,23 @@
+.answer-view {
+  margin-bottom: 20px;
+}
+
+.answerer {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.answer {
+  text-align: left;
+  text-indent: 2em;
+}
+
+.rate-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rate-hint {
+  font-size: 16px;
+}

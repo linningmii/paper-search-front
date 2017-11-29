@@ -1,0 +1,25 @@
+.mid-container {
+  width: 60%;
+  position: fixed;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.mid-container .app-name {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+}
+
+.search-box .search-input {
+  height: 36px;
+}
+
+.search-box .search-button {
+  margin-left: 20px;
+}

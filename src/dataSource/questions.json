@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "question": "三个代表重要思想是什么?",
+    "questioner": "李秋良",
+    "answerer": "王英涛",
+    "time": "2017-11-26"
+  },
+  {
+    "id": 2,
+    "question": "什么是八荣八耻?",
+    "questioner": "李秋良",
+    "answerer": "王英涛",
+    "time": "2017-11-26"
+  },
+  {
+    "id": 3,
+    "question": "习近平总书记重要讲话的主旨是?",
+    "questioner": "李秋良",
+    "answerer": "王英涛",
+    "time": "2017-11-26"
+  },
+  {
+    "id": 4,
+    "question": "如何理解毛泽东思想?",
+    "questioner": "陈廷堃",
+    "answerer": "王英涛",
+    "time": "2017-11-26"
+  }
+]
